@@ -4,19 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+07-14-2017
 
 ### Student Name:  
-(First and Last Name)
+Erik Wilbas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 6: This lesson introduces the HTML DOM and how
+JavaScript is used to access and change the elements of an
+HTML document.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ewilbas.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Brief introduction to the Document Object Model (DOM), explaining the model and its uses.
+2. Selecting Elements in the Document Object Model, and other methods used to access elements in an HTML document.
+3. DHTML (Dynamic HyperText Markup Language) and an overview on the topic.
+
